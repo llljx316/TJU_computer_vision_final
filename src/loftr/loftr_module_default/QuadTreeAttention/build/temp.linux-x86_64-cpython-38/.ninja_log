@@ -1,0 +1,5 @@
+# ninja log v5
+0	18344	1687283315103846347	/root/LoFTR/src/loftr/loftr_module_default/QuadTreeAttention/build/temp.linux-x86_64-cpython-38/QuadtreeAttention/src/score_computation.o	ea3e2d821530c292
+1	40669	1687283337432220427	/root/LoFTR/src/loftr/loftr_module_default/QuadTreeAttention/build/temp.linux-x86_64-cpython-38/QuadtreeAttention/src/score_computation_kernal.o	474ebda69a01fa16
+1	17971	1687283355736527088	/root/LoFTR/src/loftr/loftr_module_default/QuadTreeAttention/build/temp.linux-x86_64-cpython-38/QuadtreeAttention/src/value_aggregation.o	b663f93426163a53
+1	36215	1687283373984832808	/root/LoFTR/src/loftr/loftr_module_default/QuadTreeAttention/build/temp.linux-x86_64-cpython-38/QuadtreeAttention/src/value_aggregation_kernel.o	d48ed29affe9e970
